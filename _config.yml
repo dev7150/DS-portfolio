@@ -65,10 +65,10 @@ author:
   contact: "+61403259345"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/devashishpoudel/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dev.poudel@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,10 +78,10 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/devashishpoudel/"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dev.poudel@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
