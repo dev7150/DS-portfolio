@@ -61,31 +61,31 @@ author:
   name   : "Dev Poudel"
   avatar : "/assets/images/Profile.jpg"
   bio    : "Data Science Portfolio"
+  location: "Melbourne, VIC, Australia"
+  contact: "+61403259345"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/devashishpoudel/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:dev.poudel@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/dev7150"
+    
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/devashishpoudel/"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:dev.poudel@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/dev7150"
 
 defaults:
   # _posts
