@@ -13,7 +13,7 @@ Over 2 years of experience in telecommunications industry as a technical analyst
 
 ### Managing Modern Desktops - MD 101
 * Issued Oct 2020
-* [Certifiacation Badge](https://www.credly.com/badges/a8c1c4f6-ad66-4c8c-b9ca-1dfe3889bfcc?source=linked_in_profile)
+* [Certification Badge](https://www.credly.com/badges/a8c1c4f6-ad66-4c8c-b9ca-1dfe3889bfcc?source=linked_in_profile)
 
 ### Cisco Certified Entry Networking Technician (CCENT)
 * Issued Mar 2018
