@@ -82,7 +82,7 @@ footer:
       url: "https://www.linkedin.com/in/devashishpoudel/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      mailto: "dev.poudel@outlook.com"
+      # url: mailto: dev.poudel@outlook.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dev7150"
