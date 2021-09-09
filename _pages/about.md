@@ -8,12 +8,11 @@ Over 2 years of experience in telecommunications industry as a technical analyst
 ## Certifications
 
 ### Azure Fundamentals				
-Issued Dec 2020						      			
-[Azure Certification Badge](https://www.credly.com/badges/83502229-5297-47ea-9836-e36a30cde3d8?source=linked_in_profile)
+* Issued Dec 2020						      			
+* [Azure Certification Badge](https://www.credly.com/badges/83502229-5297-47ea-9836-e36a30cde3d8?source=linked_in_profile)
 
 ### Managing Modern Desktops - MD 101
 * Issued Oct 2020
-* Credential ID 389165 
 * [Certifiacation Badge](https://www.credly.com/badges/a8c1c4f6-ad66-4c8c-b9ca-1dfe3889bfcc?source=linked_in_profile)
 
 ### Cisco Certified Entry Networking Technician (CCENT)
