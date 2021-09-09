@@ -21,7 +21,7 @@ Over 2 years of experience in telecommunications industry as a technical analyst
 
 ## My Skills
 
-### Data Science, Python and SQL 
+### Data Science
 
 | Data Science                                                                                  | Level                  | Years Of Expertise               |
 | --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
