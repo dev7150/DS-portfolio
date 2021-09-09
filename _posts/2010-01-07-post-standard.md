@@ -3,7 +3,7 @@ title: "Post: Grocery Chain Store Analysis"
 categories:
   - Blog
 tags:
-  - Post Formats
+  - Power BI
   - readability
   - standard
 ---
