@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Over 2 years of experience in telecommunications industry as a technical analyst. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Power BI, Tableau, SQL with successfull project completions for Data Science.
+Over 3 years of experience in telecommunications industry as a technical analyst. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Power BI, Tableau, SQL with successfull project completions for Data Science.
 
 ## Certifications
 
@@ -25,18 +25,18 @@ Over 2 years of experience in telecommunications industry as a technical analyst
 
 | Data Science                                                                                  | Level                  | Years Of Expertise               |
 | --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
-| Python Scripting with libraries i.e. numpy, matplotlib, panda, scikit                         | Beginner               | 1                                |
+| Python Scripting with libraries i.e. numpy, matplotlib, pandas, scikit                        | Beginner               | 1                                |
 | Tableau for data mining, data validation and identifying anomalies                            | Beginner               | 1                                |
 | simple and multiple linear regression, Ordinary Least Squares, R-Squared, Adjusted R-Squared  | Beginner               | 1                                |  
 | Excel Reporting and Dashboarding                                                              | Intermediate           | 2                                |
-| Power- BI reporting and Dashboarding                                                          | Intermediate           | 1.5                                |
+| Power- BI for reporting and Dashboarding                                                      | Intermediate           | 1.5                                |
 | Co-efficient of logistic regression                                                           | Beginner               | 1                                |
 | Bulletproofing Blueprint for Data Wrangling                                                   | Beginner               | 1                                |
 | Data Warehouse, ETL, Microsoft BI Tools: SSDT-BI, SSIS                                        | Beginner               | 1                                | 
 | Data truncation, anomalies, Error troubleshooting in SSIS using Conditional Split             | Beginner               | 1                                |
-| Microsoft SQL Server                                                                          | Beginner               | 1                                |
-| Cumulative Accuracy Profile (CAP) curve                                                       | Beginner               | 1                                | 
-| Correlation Matrix and Multicollinearity Intuition                                            | Beginner               | 1                                |
+| Microsoft SQL Server                                                                          | Intermediate           | 1.5                                |
+| Azure Cloud Platform					                                                        | Beginner               | 1                                | 
+| Cloud Technologies								                                            | Beginner               | 1                                |
 | model maintenance, model deterioration                                                        | Beginner               | 1                                |
 | SQL Tables (RAW, WRK, DRV), stored procedures, functions                                      | Beginner               | 1                                | 
 
@@ -49,7 +49,7 @@ Over 2 years of experience in telecommunications industry as a technical analyst
 | ------------------------------------------------------------------------------------------- |:--------------------------------:| :-------------------------------:|
 | Communication                                                                               | Advanced                         | 5                               |
 | Organization                                                                                | Advanced                         | 5                               |
-| Team Player s                                                                               | Advanced                         | 5                               |
+| Team Player                                                                               | Advanced                         | 5                               |
 | Creativity                                                                                  | Advanced                         | 5                               |
 | Social                                                                                      | Advanced                         | 5                               |
 | Project management                                                                          | Advanced                         | 5                               |
