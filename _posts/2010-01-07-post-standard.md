@@ -1,5 +1,5 @@
 ---
-title: "Post: Grocery Chain Store Analysis"
+title: "Grocery Chain Store Analysis"
 categories:
   - Blog
 tags:
