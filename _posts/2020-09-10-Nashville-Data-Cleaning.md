@@ -9,7 +9,7 @@ tags:
 ---
 
 
-### [Project 2: DataCleaningSQL](https://github.com/dev7150/DataCleaningSQL)
+### [SQL Query](https://github.com/dev7150/DataCleaningSQL)
 
 
 Nashville housing data is used as the data source.
