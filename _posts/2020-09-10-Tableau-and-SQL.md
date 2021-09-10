@@ -3,7 +3,7 @@ title: "Covid-19 Data Analysis"
 categories:
   - Blog
 header:
-  image: "assets/images/Tableau.png"
+  image: "/assets/images/Tableau.png"
 tags:
   - Tableau
   - readability
