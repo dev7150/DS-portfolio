@@ -10,10 +10,6 @@ tags:
   - standard
 ---
 
-
-### [SQL Query](https://github.com/dev7150/DataCleaningSQL)
-
-
 Nashville housing data is used as the data source.
 - Date is converted to standard format.
 - Remove rows with nulls as property address.
