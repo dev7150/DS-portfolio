@@ -3,7 +3,7 @@ title: "Covid-19 Data Analysis"
 categories:
   - Blog
 header:
-  image: "assets/images/download.jfif"
+  teaser: "assets/images/download.jfif"
 tags:
   - Tableau
   - readability

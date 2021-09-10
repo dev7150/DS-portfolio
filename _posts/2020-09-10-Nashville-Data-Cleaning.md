@@ -2,7 +2,8 @@
 title: "Nashville Housing data cleaning using SQL"
 categories:
   - Blog
-
+header:
+  teaser: /assets/images/download(1).jfif
 tags:
   - SQL
   - readability
