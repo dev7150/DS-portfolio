@@ -7,13 +7,13 @@ tags:
   - readability
   - standard
 ---
-
+### [Project 1: Exploratory SQL](https://github.com/dev7150/Exploratory_SQL) 
 
 [Dashboard](https://public.tableau.com/app/profile/dev7234/viz/CovidData_16293863858080/Dashboard1)
 
 This project deals with a Covid-19 data from https://ourworldindata.org/.
 
-<iframe width="600" height="373.5" src="https://public.tableau.com/app/profile/dev7234/viz/CovidData_16293863858080/Dashboard1" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="400" src="https://public.tableau.com/app/profile/dev7234/viz/CovidData_16293863858080/Dashboard1" frameborder="0" allowFullScreen="true"></iframe>
 
 
 This project works through the entire business intelligence workflow:
