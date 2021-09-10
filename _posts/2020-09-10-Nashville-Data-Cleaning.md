@@ -4,6 +4,7 @@ categories:
   - Blog
 header:
   teaser: /assets/images/download.jfif
+  image: /assets/images/sqll.png
 tags:
   - SQL
   - readability
