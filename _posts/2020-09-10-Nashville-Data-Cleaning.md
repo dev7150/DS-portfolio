@@ -2,6 +2,7 @@
 title: "Nashville Housing data cleaning using SQL"
 categories:
   - Blog
+
 tags:
   - SQL
   - readability
