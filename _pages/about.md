@@ -38,7 +38,7 @@ Over 3 years of experience in telecommunications industry as a technical analyst
 | Azure Cloud Platform					                                                        | Beginner               | 1                                | 
 | Cloud Technologies								                                            | Beginner               | 1                                |
 | model maintenance, model deterioration                                                        | Beginner               | 1                                |
-| SQL Tables (RAW, WRK, DRV), stored procedures, functions                                      | Beginner               | 1                                | 
+| SQL Tables, stored procedures, functions				                                        | Beginner               | 1                                | 
 
 
 
