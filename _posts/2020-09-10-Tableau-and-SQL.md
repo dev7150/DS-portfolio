@@ -18,6 +18,6 @@ This project works through the entire business intelligence workflow and incudes
 * Exploratory analysis is done
 * Tableau is used for visualizations. 
 
-[Link to Dashboard](https://public.tableau.com/app/profile/dev7234/viz/CovidData_16293863858080/Dashboard1)
-[Link to Github SQL code](https://github.com/dev7150/Exploratory_SQL) 
+-[Link to Dashboard](https://public.tableau.com/app/profile/dev7234/viz/CovidData_16293863858080/Dashboard1)
+-[Link to Github SQL code](https://github.com/dev7150/Exploratory_SQL) 
 	
