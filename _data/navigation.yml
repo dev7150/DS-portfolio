@@ -1,3 +1,5 @@
 main:
+   - title: "Data Science Projects"
+    url: /tag-archive/
    - title: "About"
     url: /about/
