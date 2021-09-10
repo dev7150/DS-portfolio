@@ -1,5 +1,5 @@
 ---
-title: "Data Science Projects by Tag"
+title: "Posts by Tag"
 permalink: /tags/
 layout: tags
 author_profile: true

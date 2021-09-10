@@ -16,7 +16,7 @@ Housing data is used as the data source.
 - Convert 'Y' and 'N' to Yes and No.
 - Remove duplicates using CTE.
 
-#### [SQL Query](https://github.com/dev7150/DataCleaningSQL)
+### [SQL Query](https://github.com/dev7150/DataCleaningSQL)
 
 
 
