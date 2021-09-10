@@ -4,6 +4,7 @@ categories:
   - Blog
 header:
   teaser: /assets/images/analysis.jfif
+  image: /assets/images/SQL.png
 tags:
   - Tableau
   - readability
