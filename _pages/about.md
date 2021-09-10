@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 
 header:
-  image: /assets/images/analysis.jfif
+  image: /assets/images/about.jfif
 ---
 
 Over 3 years of experience in telecommunications industry as a technical analyst. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Power BI, Tableau, SQL with successful project completions for Data Science.
