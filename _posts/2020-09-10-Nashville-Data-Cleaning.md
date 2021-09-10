@@ -20,10 +20,10 @@ Nashville housing data is used as the data source.
 - Convert 'Y' and 'N' to Yes and No.
 - Remove duplicates using CTE.
 
-<<<<<<< HEAD
-=======
+
+
 ### [SQL Query](https://github.com/dev7150/DataCleaningSQL)
 
->>>>>>> e855395d52df815db36fec8c75c3e1ff061982e0
+
 
 

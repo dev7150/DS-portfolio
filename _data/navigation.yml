@@ -1,10 +1,5 @@
 main:
    - title: "Data Science Projects"
-    url: /
-<<<<<<< HEAD
+   url: /
   - title: "About"
     url: /about/
-=======
-   - title: "About"
-    url: /about/
->>>>>>> e855395d52df815db36fec8c75c3e1ff061982e0
