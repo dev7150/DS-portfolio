@@ -28,16 +28,16 @@ Over 3 years of experience in telecommunications industry as a technical analyst
 
 | Data Science                                                                                  | Level                  | Years Of Expertise               |
 | --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
+| Excel Reporting and Dashboarding                                                              | Intermediate           | 2                                |
+| Microsoft SQL Server                                                                          | Intermediate           | 1.5                              |
+| Power- BI for reporting and Dashboarding                                                      | Intermediate           | 1.5                              |
 | Python Scripting with libraries i.e. numpy, matplotlib, pandas, scikit                        | Beginner               | 1                                |
 | Tableau for data mining, data validation and identifying anomalies                            | Beginner               | 1                                |
 | simple and multiple linear regression, Ordinary Least Squares, R-Squared, Adjusted R-Squared  | Beginner               | 1                                |  
-| Excel Reporting and Dashboarding                                                              | Intermediate           | 2                                |
-| Power- BI for reporting and Dashboarding                                                      | Intermediate           | 1.5                              |
 | Co-efficient of logistic regression                                                           | Beginner               | 1                                |
 | Bulletproofing Blueprint for Data Wrangling                                                   | Beginner               | 1                                |
 | Data Warehouse, ETL, Microsoft BI Tools: SSDT-BI, SSIS                                        | Beginner               | 1                                | 
 | Data truncation, anomalies, Error troubleshooting in SSIS using Conditional Split             | Beginner               | 1                                |
-| Microsoft SQL Server                                                                          | Intermediate           | 1.5                              |
 | Azure Cloud Platform					                                                        | Beginner               | 1                                | 
 | Cloud Technologies								                                            | Beginner               | 1                                |
 | model maintenance, model deterioration                                                        | Beginner               | 1                                |
