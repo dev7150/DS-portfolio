@@ -1,5 +1,5 @@
 ---
-title: "Analytics for a store"
+title: "Store Analytics"
 categories:
   - Blog
 tags:
@@ -9,10 +9,9 @@ tags:
 ---
 This project deals with a sample data from a multi-national store.
 
-<iframe width="600" height="373.5" src="<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGU0MWFjNzQtMWMzZS00MTQ5LTkwNDgtYTk5Y2NlMmZjMWZmIiwidCI6IjhhYjFmYjMzLTI2MWUtNDUyOC04ZjU0LTE5NGUzNWZmNzlmNSJ9" frameborder="0" allowFullScreen="true"></iframe>"
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGU0MWFjNzQtMWMzZS00MTQ5LTkwNDgtYTk5Y2NlMmZjMWZmIiwidCI6IjhhYjFmYjMzLTI2MWUtNDUyOC04ZjU0LTE5NGUzNWZmNzlmNSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-The power bi project follows the folloing steps for the creation of the report:
-
+The power bi project follows the folloing steps for the creation of the report.
 	- Import data from multiple csv files
 	- Use basic table transormations i.e. index columns, conditional columns, grouping and aggregation.
 	- Pivoting and Unpivoting data and using advances editor for m code to clean, transform and load the data.
