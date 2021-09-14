@@ -1,5 +1,5 @@
 ---
-title: "Store Analytics"
+title: "Store Analytics Using Power BI"
 categories:
   - Blog
 header:
