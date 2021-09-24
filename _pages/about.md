@@ -10,6 +10,10 @@ Over 3 years of experience in telecommunications industry as a technical analyst
 
 ## Certifications
 
+### Microsoft Certified: Data Analyst Associate				
+* Issued Sep 2021						      			
+* [Azure Certification Badge](https://www.credly.com/badges/57c320c0-fce7-4eb9-886d-f2ace3312899)
+
 ### Azure Fundamentals				
 * Issued Dec 2020						      			
 * [Azure Certification Badge](https://www.credly.com/badges/83502229-5297-47ea-9836-e36a30cde3d8?source=linked_in_profile)
