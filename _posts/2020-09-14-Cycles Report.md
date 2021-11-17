@@ -12,7 +12,7 @@ tags:
 ---
 This project deals with a sample data from a multi-national store.
 
-<iframe width="800" height="673.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGU0MWFjNzQtMWMzZS00MTQ5LTkwNDgtYTk5Y2NlMmZjMWZmIiwidCI6IjhhYjFmYjMzLTI2MWUtNDUyOC04ZjU0LTE5NGUzNWZmNzlmNSJ9&pageName=ReportSectiona4e6c7b2ab0b6a6b5111" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGU0MWFjNzQtMWMzZS00MTQ5LTkwNDgtYTk5Y2NlMmZjMWZmIiwidCI6IjhhYjFmYjMzLTI2MWUtNDUyOC04ZjU0LTE5NGUzNWZmNzlmNSJ9&pageName=ReportSectiona4e6c7b2ab0b6a6b5111" frameborder="0" allowFullScreen="true"></iframe>
 
 
 The power bi project follows these steps for the creation of the report.
