@@ -12,10 +12,10 @@ tags:
 ---
 This project deals with a sample data from a multi-national store.
 
-<iframe width="800" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiNGU0MWFjNzQtMWMzZS00MTQ5LTkwNDgtYTk5Y2NlMmZjMWZmIiwidCI6IjhhYjFmYjMzLTI2MWUtNDUyOC04ZjU0LTE5NGUzNWZmNzlmNSJ9&pageName=ReportSection578c0f2db8ed400e7a20" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="800" height="450" src="https://app.powerbi.com/view?r=eyJrIjoiNGU0MWFjNzQtMWMzZS00MTQ5LTkwNDgtYTk5Y2NlMmZjMWZmIiwidCI6IjhhYjFmYjMzLTI2MWUtNDUyOC04ZjU0LTE5NGUzNWZmNzlmNSJ9&pageName=ReportSection578c0f2db8ed400e7a20" frameborder="0" allowFullScreen="true"></iframe>
 
 
-The power bi project follows these steps for the creation of the report.
+The power bi project follows these steps for the creation of the report:
 - Imported data from multiple csv files.
 - Used basic table transormations i.e. index columns, conditional columns, grouping and aggregation.
 - Pivoting and Unpivoting data and used advanced editor for m code to clean, transform and load the data.
