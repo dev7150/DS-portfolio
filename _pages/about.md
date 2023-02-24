@@ -6,9 +6,13 @@ header:
   image: /assets/images/about.jpg
 ---
 
-Over 3 years of experience in telecommunications industry as a technical analyst. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Power BI, Tableau, SQL with successful project completions for Data Science.
+Over 5 years of experience in telecommunications industry as a technical analyst. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Power BI, Tableau, SQL with successful project completions for Data Science.
 
 ## Certifications
+
+### Microsoft Certified: Data Engineer Associate				
+* Issued Jan 2023						      			
+* [Certification Badge](https://www.credly.com/badges/d6511da8-e2cc-4d2d-ae06-d891dd3cbade)
 
 ### Microsoft Certified: Data Analyst Associate				
 * Issued Sep 2021						      			
@@ -32,20 +36,20 @@ Over 3 years of experience in telecommunications industry as a technical analyst
 
 | Data Science                                                                                  | Level                  | Years Of Expertise               |
 | --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
-| Excel Reporting and Dashboarding                                                              | Intermediate           | 2                                |
-| Microsoft SQL Server                                                                          | Intermediate           | 1.5                              |
-| Power- BI for reporting and Dashboarding                                                      | Intermediate           | 1.5                              |
+| Excel Reporting and Dashboarding                                                              | Intermediate           | 3                                |
+| Microsoft SQL Server                                                                          | Intermediate           | 2                                |
+| Power- BI for reporting and Dashboarding                                                      | Intermediate           | 2                                |
 | Python Scripting with libraries i.e. numpy, matplotlib, pandas, scikit                        | Beginner               | 1                                |
 | Tableau for data mining, data validation and identifying anomalies                            | Beginner               | 1                                |
 | Simple and multiple linear regression, Ordinary Least Squares, R-Squared, Adjusted R-Squared  | Beginner               | 1                                |  
-| Co-efficient of logistic regression                                                           | Beginner               | 1                                |
+| SSIS, ADF                                                                                     | Beginner               | 1                                |
 | Bulletproofing Blueprint for Data Wrangling                                                   | Beginner               | 1                                |
 | Data Warehouse, ETL, Microsoft BI Tools: SSDT-BI, SSIS                                        | Beginner               | 1                                | 
-| Data truncation, anomalies, Error troubleshooting in SSIS using Conditional Split             | Beginner               | 1                                |
-| Azure Cloud Platform					                                                        | Beginner               | 1                                | 
-| Cloud Technologies								                                            | Beginner               | 1                                |
-| Model maintenance, model deterioration                                                        | Beginner               | 1                                |
-| SQL Tables, stored procedures, functions				                                        | Beginner               | 1                                | 
+| Databricks                                                                                    | Beginner               | 1                                |
+| Azure Cloud Platform					                                                                | Beginner               | 1                                | 
+| Cloud Technologies								                                                            | Beginner               | 1                                |
+| Data Engineering                                                                              | Beginner               | 1                                |
+| SQL Tables, stored procedures, functions				                                              | Beginner               | 1                                | 
 
 
 
