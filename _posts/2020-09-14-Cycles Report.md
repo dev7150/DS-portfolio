@@ -12,7 +12,7 @@ tags:
 ---
 This project deals with a sample data from a multi-national store.
 
-<iframe width="800" height="450" src="https://app.powerbi.com/view?r=eyJrIjoiNGU0MWFjNzQtMWMzZS00MTQ5LTkwNDgtYTk5Y2NlMmZjMWZmIiwidCI6IjhhYjFmYjMzLTI2MWUtNDUyOC04ZjU0LTE5NGUzNWZmNzlmNSJ9&pageName=ReportSection578c0f2db8ed400e7a20" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Cycle Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzBkMjE1NTctNTg4OS00ZDlkLTkyNWQtMzE2MGE0OTVjNjA4IiwidCI6IjViMmQyMmVjLTMyNjgtNDhiMy1hNThiLWM3YjA0NTkxNDM2NyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 
 The power bi project follows these steps for the creation of the report:
